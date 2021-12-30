@@ -10,6 +10,7 @@ function App() {
           Hyy , I am Ritesh Thakur
         </p>
         <p>From BIT DURG </p>
+        <p>This is a test website for github actions</p>
         <p>
         <a
           className="App-link"
