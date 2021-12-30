@@ -10,14 +10,16 @@ function App() {
           Hyy , I am Ritesh Kumar Thakur
         </p>
         <p>From BIT DURG </p>
+        <p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+          Link 
+        </a> to my Github account
+        </p>
       </header>
     </div>
   );
