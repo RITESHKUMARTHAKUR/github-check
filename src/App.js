@@ -9,6 +9,7 @@ function App() {
         <p>
           Hyy , I am Ritesh Kumar Thakur
         </p>
+        <p>From BIT DURG </p>
         <a
           className="App-link"
           href="https://reactjs.org"
